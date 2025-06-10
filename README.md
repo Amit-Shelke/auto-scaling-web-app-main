@@ -16,7 +16,7 @@ This project shows how to set up a scalable web application on AWS. It uses Auto
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/ujjwalpingle/auto-scaling-web-app.git
+git clone https://github.com/amitshelke/auto-scaling-web-app.git
 cd auto-scaling-web-app
 ```
 
